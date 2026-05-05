@@ -8,7 +8,7 @@ Team Members
 Jacob Gregory Robbins - Lead Developer
 
 Video Link
-https://youtu.be/eJIh6W9lq-o (copy & paste into web browser)
+https://youtu.be/eJIh6W9lq-o 
 
 Technologies I Used
 Frontend: React, Axios (for the API calls), and React Router.
